@@ -1,5 +1,5 @@
 # React Search Box
 <br>
 
-## Using....
+## Using...
 ### Data fatching | API
